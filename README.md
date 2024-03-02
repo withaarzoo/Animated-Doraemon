@@ -36,7 +36,7 @@ The animation effect for Doraemon's eyes is achieved using CSS keyframes. The `m
 
 ## Author
 
-This code snippet is authored by [Aarzoo].
+This code snippet is authored by [Aarzoo](https://twitter.com/withaarzoo).
 
 ## License
 
