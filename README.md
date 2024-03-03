@@ -1,6 +1,6 @@
 # Animated Doraemon
 
-This is a simple HTML and CSS code snippet to create an animated representation of Doraemon, the famous cartoon character. The code utilizes basic HTML structure along with CSS styling to create the visual effect.
+This is a simple HTML and CSS code snippet to create an animated representation of Doraemon, the famous cartoon character. The code utilizes basic HTML structure along with CSS styling to create the visual effect .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Doraemon/assets/59678435/4df91f4a-c0db-4f66-b93d-dc33dd950c38)
